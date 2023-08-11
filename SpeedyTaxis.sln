@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedyTaxis", "SpeedyTaxis\SpeedyTaxis.csproj", "{A554C589-9EC2-4194-89FE-B9E0C4B8BA38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Components", "Components\Components.csproj", "{069E3A9F-8624-4D5D-A9CF-A48F54E84696}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebService", "WebService\WebService.csproj", "{538C040F-1849-4C5B-B97C-EB7E6CE10A5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A554C589-9EC2-4194-89FE-B9E0C4B8BA38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A554C589-9EC2-4194-89FE-B9E0C4B8BA38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A554C589-9EC2-4194-89FE-B9E0C4B8BA38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A554C589-9EC2-4194-89FE-B9E0C4B8BA38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{069E3A9F-8624-4D5D-A9CF-A48F54E84696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{069E3A9F-8624-4D5D-A9CF-A48F54E84696}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{069E3A9F-8624-4D5D-A9CF-A48F54E84696}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{069E3A9F-8624-4D5D-A9CF-A48F54E84696}.Release|Any CPU.Build.0 = Release|Any CPU
+		{538C040F-1849-4C5B-B97C-EB7E6CE10A5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{538C040F-1849-4C5B-B97C-EB7E6CE10A5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{538C040F-1849-4C5B-B97C-EB7E6CE10A5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{538C040F-1849-4C5B-B97C-EB7E6CE10A5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
